@@ -1,0 +1,5 @@
+imagen 134234.jpg
+background #000000
+size 8
+
+Los de este curso ya podemos cobrar 2500$
